@@ -6,7 +6,7 @@
 Theme by: WebThemez.com 
 */
 $( function() {
-    var endDate = "December  28, 2018 15:03:25";
+    var endDate = "November  7, 2024 10:30:00";
 
     $('.countdown.simple').countdown({ date: endDate });
 
